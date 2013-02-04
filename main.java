@@ -13,6 +13,8 @@ public class Main {
 		
 		System.out.println("The value is %d",x);
 		System.out.println("The new attribute for y is %d",y);
+		
+		System.out.println("The sum is %d",x+y);
 	}
 
 }
